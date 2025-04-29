@@ -124,11 +124,3 @@ services:
 volumes:
   spark-logs:
 ```
-
-## 👥 Contribuição
-
-Sinta-se à vontade para contribuir com este repositório através de Pull Requests.
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
