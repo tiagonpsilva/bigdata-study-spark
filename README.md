@@ -1,50 +1,20 @@
-# 📚 Estudo do Apache Spark
+# 🧠 Estudo do Apache Spark
 
-Este repositório contém materiais de estudo sobre o Apache Spark, com foco em processamento distribuído de dados em larga escala.
+Este repositório contém explicações detalhadas e exemplos práticos dos conceitos fundamentais do Apache Spark, com foco em processamento distribuído de dados em larga escala.
 
-## 📂 Estrutura do Repositório
+## 📋 Índice de Conceitos
 
-1. [Conceitos Básicos](./01-conceitos-basicos/README.md)
-   - Fundamentos do Spark
-   - Arquitetura
-   - RDDs
-   - SparkContext e SparkSession
+1. **🔥 [Conceitos Básicos](./01-conceitos-basicos/README.md)** - Fundamentos, arquitetura, RDDs e contextos do Spark
+2. **📊 [Spark SQL](./02-spark-sql/README.md)** - Processamento estruturado de dados com DataFrames e SQL
+3. **🌊 [Spark Streaming](./03-spark-streaming/README.md)** - Processamento de dados em tempo real e integração com Kafka
+4. **🤖 [MLlib](./04-mllib/README.md)** - Machine Learning distribuído com algoritmos e pipelines
+5. **🕸️ [GraphX](./05-graphx/README.md)** - Processamento e análise de grafos em larga escala
+6. **⚡ [Otimização](./06-otimizacao/README.md)** - Tunning, particionamento e monitoramento
+7. **💡 [Exemplos](./07-exemplos/README.md)** - Cases práticos e integrações
 
-2. [Spark SQL](./02-spark-sql/README.md)
-   - DataFrames e Datasets
-   - Operações e Transformações
-   - Catálogo e Metastore
-   - Otimização de Consultas
+## 🌟 Objetivo
 
-3. [Spark Streaming](./03-spark-streaming/README.md)
-   - DStreams
-   - Structured Streaming
-   - Integração com Kafka
-   - Processamento de Eventos
-
-4. [MLlib](./04-mllib/README.md)
-   - Algoritmos de ML
-   - Pipeline API
-   - Feature Engineering
-   - Avaliação de Modelos
-
-5. [GraphX](./05-graphx/README.md)
-   - Processamento de Grafos
-   - Algoritmos de Grafos
-   - Operadores
-   - Visualização
-
-6. [Otimização](./06-otimizacao/README.md)
-   - Tunning
-   - Particionamento
-   - Caching
-   - Monitoramento
-
-7. [Exemplos](./07-exemplos/README.md)
-   - Cases Práticos
-   - Notebooks
-   - Aplicações
-   - Integrações
+Este repositório tem como objetivo proporcionar um entendimento prático do Apache Spark, com explicações claras e exemplos de casos de uso reais. Cada conceito é explorado em detalhes, com código funcional e boas práticas.
 
 ## ⚙️ Pré-requisitos
 
