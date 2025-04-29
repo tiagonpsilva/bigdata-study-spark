@@ -1,15 +1,8 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# bigdata-study-spark
-Repositório de estudo sobre Apache Spark e processamento de Big Data, incluindo exemplos práticos e exercícios.
-=======
->>>>>>> feature/spark-study
-# Estudo do Apache Spark
+# 📚 Estudo do Apache Spark
 
 Este repositório contém materiais de estudo sobre o Apache Spark, com foco em processamento distribuído de dados em larga escala.
 
-## Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 1. [Conceitos Básicos](./01-conceitos-basicos/README.md)
    - Fundamentos do Spark
@@ -53,7 +46,7 @@ Este repositório contém materiais de estudo sobre o Apache Spark, com foco em 
    - Aplicações
    - Integrações
 
-## Pré-requisitos
+## ⚙️ Pré-requisitos
 
 - Java 8 ou superior
 - Python 3.7+
@@ -61,7 +54,7 @@ Este repositório contém materiais de estudo sobre o Apache Spark, com foco em 
 - Conhecimento básico de SQL
 - Familiaridade com processamento distribuído
 
-## Como Usar
+## 🚀 Como Usar
 
 1. Clone o repositório
 ```bash
@@ -83,7 +76,7 @@ docker-compose up -d
    - Jupyter: http://localhost:8888
    - History Server: http://localhost:18080
 
-## Ambiente de Desenvolvimento
+## 🐳 Ambiente de Desenvolvimento
 
 ### Docker Compose
 
@@ -132,15 +125,10 @@ volumes:
   spark-logs:
 ```
 
-## Contribuição
+## 👥 Contribuição
 
 Sinta-se à vontade para contribuir com este repositório através de Pull Requests.
 
-## Licença
+## 📝 Licença
 
-<<<<<<< HEAD
-Este projeto está sob a licença MIT. 
-=======
-Este projeto está sob a licença MIT. 
->>>>>>> a9fdd0c (Initial commit: Project structure and documentation)
->>>>>>> feature/spark-study
+Este projeto está sob a licença MIT.
