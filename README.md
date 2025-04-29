@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# bigdata-study-spark
+Repositório de estudo sobre Apache Spark e processamento de Big Data, incluindo exemplos práticos e exercícios.
+=======
+>>>>>>> feature/spark-study
 # Estudo do Apache Spark
 
 Este repositório contém materiais de estudo sobre o Apache Spark, com foco em processamento distribuído de dados em larga escala.
@@ -131,4 +138,9 @@ Sinta-se à vontade para contribuir com este repositório através de Pull Reque
 
 ## Licença
 
+<<<<<<< HEAD
 Este projeto está sob a licença MIT. 
+=======
+Este projeto está sob a licença MIT. 
+>>>>>>> a9fdd0c (Initial commit: Project structure and documentation)
+>>>>>>> feature/spark-study
